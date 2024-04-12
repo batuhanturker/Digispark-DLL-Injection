@@ -6,7 +6,6 @@ This project demonstrates a proof-of-concept implementation of establishing a re
 - Utilizes Digispark's USB capabilities to mimic a Human Interface Device (HID).
 - Executes a DLL payload on the host computer silently.
 - Establishes a reverse shell connection from the host to a predefined server.
-- Minimalist codebase optimized for resource-constrained environments.
 
 ## Usage
 1. Flash the Digispark with the provided Arduino sketch.
