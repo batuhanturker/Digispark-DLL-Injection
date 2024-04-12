@@ -1,4 +1,4 @@
-# Digispark-DLL-Injection
+# Digispark DLL-Injection
 
 This project demonstrates a proof-of-concept implementation of establishing a reverse shell on a host computer using an Attiny Digispark development board. By leveraging the Digispark's USB capabilities, this project allows the execution of a Dynamic Link Library (DLL) payload on the host computer, thereby establishing a reverse shell connection.
 
